@@ -1,0 +1,299 @@
+{
+  "monday": {
+    "BREAKFAST": [
+      "ONE SEASONAL FRUIT",
+      "CORNFLAKES WITH HOT MILK",
+      "Omelette",
+      "BREAD",
+      "BUTTER & JAM",
+      "COFFEE & MILK",
+      "CHANNA BUTURA"
+    ],
+    "LUNCH": [
+      "MAKMALI SUBZI",
+      "EGG MASALA",
+      "KEERAI KOOTU",
+      "STEAM RICE & CHAPATI",
+      "RASAM",
+      "CURD",
+      "VADAMS",
+      "VEG SZCHEWAN FRIED RICE & CHAPATI",
+      "CHILLIE POTATO",
+      "BRINJAL DRUMSTICK KARAKULAMBU"
+    ],
+    "EVENING SNACKS": [
+      "MUFFINS",
+      "BREAD",
+      "BUTTER & JAM",
+      "TEA & MILK"
+    ],
+    "DINNER": [
+      "SALAD",
+      "RAJMA MASALA",
+      "ALOO TOMATAR",
+      "STEAM RICE & CHAPATI",
+      "SAMBAR",
+      "RASAM",
+      "THANJUN FRIED RICE & CHAPATI",
+      "CURRY CRISPY CHICKEN",
+      "DOSA",
+      "CHUTNEY",
+      "FRESH FRUIT"
+    ]
+  },
+  "tuesday": {
+    "BREAKFAST": [
+      "ONE SEASONAL FRUIT",
+      "CORNFLAKES WITH HOT MILK",
+      "BREAD",
+      "BUTTER JAM",
+      "COFFEE & MILK",
+      "Omelette",
+      "VEG KITCHADI",
+      "MYSORE BONDA",
+      "SAMBAR CHUTNEY"
+    ],
+    "LUNCH": [
+      "POORI",
+      "CHAT PAT CHOLE",
+      "ALOO SOYA MASALA",
+      "POTATO MASALA",
+      "DRUMSTICK SAMBAR",
+      "STEAM RICE & CHAPATI",
+      "RASAM",
+      "YOUNG MAN NOODLE",
+      "VEG BALL MANCHURIAN",
+      "CURD",
+      "VADAM"
+    ],
+    "EVENING SNACKS": [
+      "INDIAN SAVOURY",
+      "BREAD",
+      "BUTTER & JAM",
+      "TEA & MILK"
+    ],
+    "DINNER": [
+      "GREEN SALAD",
+      "PANEER MUTTER",
+      "POTATO SALT AND PEPPER",
+      "DAL TADKA",
+      "JEERA PULAO",
+      "IDLY",
+      "CHUTNEY",
+      "STEAM RICE & CHAPATI",
+      "SAMBAR",
+      "RASAM",
+      "ICE CREAM"
+    ]
+  },
+  "wednesday": {
+    "BREAKFAST": [
+      "ONE SEASONAL FRUIT",
+      "CORNFLAKES WITH HOT MILK",
+      "BREAD",
+      "BUTTER JAM",
+      "COFFEE & MILK",
+      "Omelette",
+      "AJWIN POORI",
+      "POTATO MASALA"
+    ],
+    "LUNCH": [
+      "MAKAI KUMBH MASALAI",
+      "WHITE PEAS CURRY",
+      "SAMBAR",
+      "CABBAGE PORIYAL",
+      "TOMATO RASAM",
+      "STEAM RICE & CHAPATI",
+      "CURD",
+      "CAPSICUM FRIED RICE",
+      "STIR FRIED VEGETABLE",
+      "SOUTH INDIAN PAYASAM [OR] SWEET",
+      "VADAM"
+    ],
+    "EVENING SNACKS": [
+      "ALOO BONDA WITH COCONUT CHUTNEY",
+      "BREAD",
+      "BUTTER & JAM",
+      "TEA & MILK"
+    ],
+    "DINNER": [
+      "TOSSED SALAD",
+      "KHADAI BHINDI",
+      "DHAL FRY",
+      "STEAM RICE & CHAPATI",
+      "RASAM",
+      "CHILLIE CHICKEN",
+      "SHANGAI FRIED RICE",
+      "FRESH FRUIT"
+    ]
+  },
+  "thursday": {
+    "BREAKFAST": [
+      "ONE SEASONAL FRUIT",
+      "CORNFLAKES WITH HOT MILK",
+      "BREAD",
+      "BUTTER JAM",
+      "COFFEE & MILK",
+      "Omelette",
+      "THALIPPU DOSA",
+      "SAMBAR",
+      "CHUTNEY"
+    ],
+    "LUNCH": [
+      "AJWAIN POORI",
+      "ALOO GOBI CURRY",
+      "MASALA DAL",
+      "SNAKE GOURD MASALA",
+      "LADIES FINGER MORKULAMBU",
+      "RASAM",
+      "CURD",
+      "SINGAPORE NOODLE",
+      "SZCHEWAN RAW BANANA",
+      "VADAM"
+    ],
+    "EVENING SNACKS": [
+      "FRUIT CAKE",
+      "BREAD",
+      "BUTTER & JAM",
+      "TEA & MILK"
+    ],
+    "DINNER": [
+      "SALAD",
+      "EGG MASALA",
+      "DAL MAKHANI",
+      "STEAM RICE & CHAPATI",
+      "RASAM",
+      "TARKARI PULAO",
+      "CRISPY FRIED VEGETABLE",
+      "IDLY SAMBAR",
+      "CHUTNEY",
+      "FRESH FRUIT"
+    ]
+  },
+  "friday": {
+    "BREAKFAST": [
+      "ONE SEASONAL FRUIT",
+      "CORNFLAKES WITH HOT MILK",
+      "BREAD",
+      "COFFEE & MILK",
+      "BUTTER & JAM",
+      "Omelette",
+      "PONGAL",
+      "MEDU VADA",
+      "SAMBAR",
+      "CHUTNEY"
+    ],
+    "LUNCH": [
+      "RICE & CHAPATI",
+      "TAIWAN YAM",
+      "MILONI SUBZI",
+      "CHANNA DAL TADKAWALI",
+      "VARIETY RICE & CHAPATI",
+      "URULAI VARUVAL",
+      "CURD",
+      "VADAM",
+      "GINGER GARLIC FRIED RICE",
+      "TAIWAN YAM",
+      "RAWA KASARI"
+    ],
+    "EVENING SNACKS": [
+      "KEERAI VADA WITH COCONUT CHUTNEY",
+      "BREAD",
+      "BUTTER & JAM",
+      "TEA & MILK"
+    ],
+    "DINNER": [
+      "SALAD",
+      "TAWA PARATHA",
+      "BUTTER CHICKEN MASALA",
+      "KADAI PANEER",
+      "JEERA DAL",
+      "STEAM RICE & CHAPATI",
+      "RASAM",
+      "THREE PEPPER FRIED RICE",
+      "FRESH FRUITS",
+      "ICE CREAM"
+    ]
+  },
+  "saturday": {
+    "BREAKFAST": [
+      "ONE SEASONAL FRUIT",
+      "CORNFLAKES WITH HOT MILK",
+      "BREAD",
+      "BUTTER & JAM",
+      "COFFEE & MILK",
+      "Omelette",
+      "RICE SEVAI",
+      "MYSORE BONDA",
+      "SAMBAR",
+      "KARA CHUTNEY"
+    ],
+    "LUNCH": [
+      "POORI",
+      "CHANNA MASALA",
+      "GOBI SHIMLA MIRCH",
+      "URULAPATTANI MASALA",
+      "SOUTH INDIAN DAL",
+      "RASAM",
+      "STEAM RICE & CHAPATI",
+      "CURD",
+      "VADAM",
+      "VEGETABLE HAKKA NOODLE",
+      "STIR FRIED VEGETABLE"
+    ],
+    "EVENING SNACKS": [
+      "PAV BHAJI",
+      "BREAD",
+      "BUTTER & JAM",
+      "TEA & MILK"
+    ],
+    "DINNER": [
+      "SALAD",
+      "ALOO MUTTER",
+      "MASALA DAL",
+      "STEAM RICE & CHAPATI",
+      "PEPPER RASAM",
+      "CHILLY POTATO",
+      "MUTTER PULAO",
+      "FRESH FRUITS"
+    ]
+  },
+  "sunday": {
+    "BREAKFAST": [
+      "ONE SEASONAL FRUIT",
+      "CORNFLAKES WITH HOT MILK",
+      "Omelette",
+      "BREAD",
+      "BUTTER & JAM",
+      "COFFEE & MILK",
+      "IDLY",
+      "VADA",
+      "SAMBAR",
+      "CHUTNEY"
+    ],
+    "LUNCH": [
+      "SOUTH VEG KURMA",
+      "BEET ROOT PORIYAL",
+      "STEAM RICE & CHAPATI",
+      "AVARAKA SAMBAR",
+      "RASAM",
+      "SUBZI MALI KOFTHAHOME STYLE VEGETABLE FRIED RICE",
+      "ICE CREAM",
+      "FISH PREPARATION [INDIAN OR CHINESE]"
+    ],
+    "EVENING SNACKS": [
+      "SOUTH INDIAN SAVOURY",
+      "BREAD",
+      "BUTTER & JAM",
+      "TEA & MILK"
+    ],
+    "DINNER": [
+      "SALAD",
+      "CHICKEN BIRYANI",
+      "VEGETABLE BIRYANI",
+      "RAITA",
+      "ENNAI KATHRI KAI",
+      "FRESH FRUIT"
+    ]
+  }
+}
